@@ -27,3 +27,5 @@
 3. Git
  - git init [command line]
  - criacao ficheiro .gitignore
+ - git add .
+ - git commit -m "first commit"
